@@ -1,8 +1,8 @@
-#Eletromagnetismo
+# Eletromagnetismo
 
 Conteúdos:
 
-Física III
+## Física III
 
 Resumo da História do Eletromagnetismo
 Carga elétrica. Força elétrica F
@@ -26,7 +26,7 @@ Operador nabla
 Teorema de Gauss e de Stokes
 Equações de Maxwell na forma diferencial.
 
-Física IV
+## Física IV
 
 Circuito LC, LRC com épsilon constante 
 Circuito LRC com épsilon alternante. Ressonância.
@@ -52,11 +52,12 @@ Velocidades. Contração do espaço.
 Ausência de simultaneidade. Dilatação do tempo
  E = mc2. Relatividade geral.
  
- Bibliografia:
+**Bibliografia:**
 
 Qualquer livro de Física 3  – Halliday, Tipler, Serway, Moisés, etc. 
 
 McKelvey
 (ou qualquer livro de Física 4  – Halliday, Tipler, Serway, Moisés, Nélson Martins, etc.)
  
- 
+*Mais bibliografias podem ser sugeridas ao fim de cada `aula`* 
+
