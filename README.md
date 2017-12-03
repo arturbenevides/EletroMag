@@ -1,6 +1,6 @@
 # Eletromagnetismo
 
-<img src='http://eletromagnetismo.info/images/imagens/campo-eletromagnetico1.png' width= 600 > 
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maxwell%27sEquations.svg/320px-Maxwell%27sEquations.svg.png' width = 200>
 
 Conteúdos:
 
