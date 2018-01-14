@@ -7,7 +7,7 @@ Conteúdos:
 ## Física III
 
 Resumo da História do Eletromagnetismo
-Carga elétrica. Força elétrica F
+Carga elétrica. Força elétrica 
 Campo elétrico E
 Lei de Gauss
 Potencial elétrico
