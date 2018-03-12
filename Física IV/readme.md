@@ -22,3 +22,5 @@ Explica que os objetos quânticos apresentam
 comportamento de onda e de partícula, dependendo do experimento realizado. 
 
 
+
+
