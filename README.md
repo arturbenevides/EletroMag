@@ -72,6 +72,6 @@ Qualquer livro de Física 3  – Halliday, Tipler, Serway, Moisés, etc.
 McKelvey
 (ou qualquer livro de Física 4  – Halliday, Tipler, Serway, Moisés, Nélson Martins, etc.)
  
-*Mais bibliografias podem ser sugeridas ao fim de cada `aula`* 
+*Mais bibliografias podem ser sugeridas ao fim de cada `tópico`* 
 
 
