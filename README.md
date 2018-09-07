@@ -4,6 +4,7 @@
 
 A história do magnetismo introduz a eletricidade. E, ela começou com as antigas civilizações. Na Grécia, por exemplo, Tales de Mileto já experimentava os efeitos de uma pedra de óxido de ferro que repelia e atraia. Em sua viagem para a Ásia, ele percebeu que essas pedras se fixavam em seu cajado de ferro quando ele o aproximava, numa região chamada de Magnésia. Também, descobriu-se na Grécia que quando atritada uma pedra de âmbar com pêlo de animal, ela adquiria propriedade de atrair pequenas partículas de pó. Além disso, existem indícios da utilização da bússola pelos chineses desde o século III A.C.
 
+
 Mesmo com todas essas descobertas, não se sabia ao certo qual era a origem desse fenômeno e foi na Idade Média que Petrus Peregrinus relatou suas experiências com o magnetismo. Ele pôde explicar a origem dos fenômenos elétricos e magnéticos, em sua obra chamada Epístola de Magnete, mas não havia explicado a diferenciação entre esses dois tipos de atração, sendo a sua obra desprezada até o final do século XVI.
 
 Depois de muito tempo, o primeiro estudo sobre o assunto foi feito por William Gilbert, um médico de Londres que escreveu o tratado 'De Magnete'. Ele conseguiu mostrar que não é somente a pedra de âmbar que tem essa propriedade de atrair quando é atritada, mas também materiais como o vidro. Em seu tratado afirmou que o planeta Terra era um grande imã e mostrou a diferença entre magnetismo e eletricidade.
