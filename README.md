@@ -1,6 +1,6 @@
 # História do Eletromagnetismo
 
-#
+
 
 A história do magnetismo introduz a eletricidade. E, ela começou com as antigas civilizações. Na Grécia, por exemplo, Tales de Mileto já experimentava os efeitos de uma pedra de óxido de ferro que repelia e atraia. Em sua viagem para a Ásia, ele percebeu que essas pedras se fixavam em seu cajado de ferro quando ele o aproximava, numa região chamada de Magnésia. Também, descobriu-se na Grécia que quando atritada uma pedra de âmbar com pêlo de animal, ela adquiria propriedade de atrair pequenas partículas de pó. Além disso, existem indícios da utilização da bússola pelos chineses desde o século III A.C.
 
